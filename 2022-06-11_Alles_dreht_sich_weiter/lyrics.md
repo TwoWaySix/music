@@ -34,4 +34,15 @@ Wir nahmen‘s in Kauf,
 Wir sterben aus.
 ```
 
+## Chorus
 
+
+## Verse 2
+```
+Nutz‘ deine Zeit und greif‘ jetzt nach den Sternen
+
+Hätt es kaum geglaubt und aus Tagen wird Nacht
+Lieferketten verketten sich, ach 
+
+
+```
