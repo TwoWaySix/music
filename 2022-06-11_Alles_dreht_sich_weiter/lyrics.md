@@ -12,7 +12,7 @@ Wir im Zentrum? Schall und Rauch.
 ```
 Es ist ein Sonntag, was war das für ein Jahr?
 Keiner hat verstanden, warum es so anders war.
-Erst einsam, dann blutig, wird langsam sehr klar,
+Erst einsam, dann blutig, wird langsam ganz klar,
 Nach 20 Jahren Schlummern war das Aufwachen hart.
 
 20 Jahre still, alles Einerlei,
@@ -28,7 +28,10 @@ Wird die Zukunft unser‘n letzten Menschen auch schon bald seh’n.
 
 ## Pre Chorus
 ```
-Blick herauf zu den Sternen
+Seht ihr es auch?
+War ein guter Lauf.
+Wir nahmen‘s in Kauf,
+Wir sterben aus.
 ```
 
 
