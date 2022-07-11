@@ -1,4 +1,6 @@
-[Hook]
+# TwoWaySix - Alles dreht sich weiter
+
+## Chorus
 ```
 Alles dreht sich weiter und wir seh’n es kaum,
 Leben unser Leben nur als wär’s ein Traum.
@@ -6,7 +8,7 @@ Die Wolken zieh’n schon weiter und die Sterne auf.
 Wir im Zentrum? Schall und Rauch.
 ```
 
-[Verse 1]
+## Verse 1
 ```
 Es ist ein Sonntag, was war das für ein Jahr?
 Keiner hat verstanden, warum es so anders war.
@@ -24,9 +26,9 @@ Schaffen wir es jetzt nicht in die Ferne zu seh’n,
 Wird die Zukunft unser‘n letzten Menschen auch schon bald seh’n.
 ```
 
-[Interlude]
-
-Blik herauf zu den Sternen
-
+## Pre Chorus
+```
+Blick herauf zu den Sternen
+```
 
 
